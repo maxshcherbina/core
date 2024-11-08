@@ -2,7 +2,7 @@
 
 from unittest.mock import AsyncMock
 
-from pysuez.exception import PySuezError
+from pysuez.client import PySuezError
 import pytest
 
 from homeassistant import config_entries
