@@ -8,3 +8,8 @@ dismiss:
       example: '{ "tag": "tagname" }'
       selector:
         object:
+    title:
+      example: "Title"
+      selector:
+        text:
+          multiline: false
