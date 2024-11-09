@@ -1,4 +1,4 @@
-"""Creates a calendar entity for the mower."""
+"""Create a calendar entity for the mower."""
 
 from datetime import datetime
 import logging

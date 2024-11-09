@@ -34,7 +34,7 @@ async def async_setup_entry(
 
 
 class RingDoorButton(RingEntity[RingOther], ButtonEntity):
-    """Creates a button to open the ring intercom door."""
+    """Create a button to open the ring intercom door."""
 
     def __init__(
         self,

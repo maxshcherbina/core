@@ -1,4 +1,4 @@
-"""Creates the binary sensor entities for the mower."""
+"""Create the binary sensor entities for the mower."""
 
 from collections.abc import Callable
 from dataclasses import dataclass

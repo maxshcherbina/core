@@ -328,7 +328,7 @@
     },
     "backup_full": {
       "name": "Create a full backup.",
-      "description": "Creates a full backup.",
+      "description": "Create a full backup.",
       "fields": {
         "name": {
           "name": "[%key:common::config_flow::data::name%]",
@@ -354,7 +354,7 @@
     },
     "backup_partial": {
       "name": "Create a partial backup.",
-      "description": "Creates a partial backup.",
+      "description": "Create a partial backup.",
       "fields": {
         "homeassistant": {
           "name": "Home Assistant settings",

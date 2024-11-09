@@ -1,4 +1,4 @@
-"""Creates the device tracker entity for the mower."""
+"""Create the device tracker entity for the mower."""
 
 from homeassistant.components.device_tracker import TrackerEntity
 from homeassistant.core import HomeAssistant

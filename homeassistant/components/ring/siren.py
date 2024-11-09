@@ -102,7 +102,7 @@ async def async_setup_entry(
 
 
 class RingSiren(RingEntity[RingDeviceT], SirenEntity):
-    """Creates a siren to play the test chimes of a Chime device."""
+    """Create a siren to play the test chimes of a Chime device."""
 
     entity_description: RingSirenEntityDescription[RingDeviceT]
 

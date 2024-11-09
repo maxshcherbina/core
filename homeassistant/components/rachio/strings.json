@@ -60,7 +60,7 @@
     },
     "start_multiple_zone_schedule": {
       "name": "Start multiple zones",
-      "description": "Creates a custom schedule of zones and runtimes. Note that all zones should be on the same controller to avoid issues.",
+      "description": "Create a custom schedule of zones and runtimes. Note that all zones should be on the same controller to avoid issues.",
       "fields": {
         "duration": {
           "name": "Duration",

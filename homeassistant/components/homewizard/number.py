@@ -1,4 +1,4 @@
-"""Creates HomeWizard Number entities."""
+"""Create HomeWizard Number entities."""
 
 from __future__ import annotations
 

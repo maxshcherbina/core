@@ -48,7 +48,7 @@
   "services": {
     "create_vacation": {
       "name": "Create vacation",
-      "description": "Creates a vacation on the selected thermostat. Note: start/end date and time must all be specified together for these parameters to have an effect. If start/end date and time are not specified, the vacation will start immediately and last 14 days (unless deleted earlier).",
+      "description": "Create a vacation on the selected thermostat. Note: start/end date and time must all be specified together for these parameters to have an effect. If start/end date and time are not specified, the vacation will start immediately and last 14 days (unless deleted earlier).",
       "fields": {
         "entity_id": {
           "name": "Entity",

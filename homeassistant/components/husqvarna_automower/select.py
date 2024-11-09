@@ -1,4 +1,4 @@
-"""Creates a select entity for the headlight of the mower."""
+"""Create a select entity for the headlight of the mower."""
 
 import logging
 from typing import cast

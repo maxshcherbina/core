@@ -1,4 +1,4 @@
-"""Creates LOQED sensors."""
+"""Create LOQED sensors."""
 
 from typing import Final
 

@@ -95,7 +95,7 @@
     },
     "record": {
       "name": "Record",
-      "description": "Creates a recording of a live camera feed.",
+      "description": "Create a recording of a live camera feed.",
       "fields": {
         "filename": {
           "name": "[%key:component::camera::services::snapshot::fields::filename::name%]",

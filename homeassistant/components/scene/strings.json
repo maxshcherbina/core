@@ -31,7 +31,7 @@
     },
     "create": {
       "name": "Create",
-      "description": "Creates a new scene.",
+      "description": "Create a new scene.",
       "fields": {
         "scene_id": {
           "name": "Scene entity ID",

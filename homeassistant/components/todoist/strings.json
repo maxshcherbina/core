@@ -31,7 +31,7 @@
   "services": {
     "new_task": {
       "name": "New task",
-      "description": "Creates a new task and add it to a project.",
+      "description": "Create a new task and add it to a project.",
       "fields": {
         "content": {
           "name": "Content",

@@ -34,7 +34,7 @@
     },
     "create_zone": {
       "name": "Create zone",
-      "description": "Creates a SoundTouch multi-room zone.",
+      "description": "Create a SoundTouch multi-room zone.",
       "fields": {
         "master": {
           "name": "Master",

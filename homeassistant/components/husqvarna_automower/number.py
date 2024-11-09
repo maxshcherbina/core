@@ -1,4 +1,4 @@
-"""Creates the number entities for the mower."""
+"""Create the number entities for the mower."""
 
 from collections.abc import Awaitable, Callable
 from dataclasses import dataclass

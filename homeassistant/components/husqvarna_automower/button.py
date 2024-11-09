@@ -1,4 +1,4 @@
-"""Creates button entities for the Husqvarna Automower integration."""
+"""Create button entities for the Husqvarna Automower integration."""
 
 from collections.abc import Awaitable, Callable
 from dataclasses import dataclass

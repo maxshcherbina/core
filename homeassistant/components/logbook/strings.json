@@ -3,7 +3,7 @@
   "services": {
     "log": {
       "name": "Log",
-      "description": "Creates a custom entry in the logbook.",
+      "description": "Create a custom entry in the logbook.",
       "fields": {
         "name": {
           "name": "[%key:common::config_flow::data::name%]",

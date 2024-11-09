@@ -2,7 +2,7 @@
   "services": {
     "create_group": {
       "name": "Create group",
-      "description": "Creates a new person group.",
+      "description": "Create a new person group.",
       "fields": {
         "name": {
           "name": "[%key:common::config_flow::data::name%]",
@@ -12,7 +12,7 @@
     },
     "create_person": {
       "name": "Create person",
-      "description": "Creates a new person in the group.",
+      "description": "Create a new person in the group.",
       "fields": {
         "group": {
           "name": "Group",
