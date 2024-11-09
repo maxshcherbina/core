@@ -134,7 +134,7 @@ AUDIO_STREAM = FakeAvInputStream(
 
 
 class PacketSequence:
-    """Creates packets in a sequence for exercising stream worker behavior.
+    """Create packets in a sequence for exercising stream worker behavior.
 
     A test can create a PacketSequence(N) that will raise a StopIteration after
     N packets.  Each packet has an arbitrary monotomically increasing dts/pts value
