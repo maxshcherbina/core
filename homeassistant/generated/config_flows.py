@@ -304,6 +304,7 @@ FLOWS = {
         "kaleidescape",
         "keenetic_ndms2",
         "kegtron",
+        "keyboard",
         "keymitt_ble",
         "kmtronic",
         "knocki",
